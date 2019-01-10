@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "312989172876",
+    "firebase_url": "https://rentdevice-bca.firebaseio.com",
+    "project_id": "rentdevice-bca",
+    "storage_bucket": "rentdevice-bca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312989172876:android:7b58f93263327ee3",
+        "android_client_info": {
+          "package_name": "com.bca.rentdevice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312989172876-fq5eb3a8k4cjj3u5b79h1nvgigh5kquf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bca.rentdevice",
+            "certificate_hash": "000657d1747b273198e93457c624c9fd0e12b6ea"
+          }
+        },
+        {
+          "client_id": "312989172876-5h88e8ddaoiompl5rrk0g2hh9bga6t7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4aC6_NY4D9deRfA1xGZ2ZJxNWgdegqpo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312989172876-5h88e8ddaoiompl5rrk0g2hh9bga6t7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

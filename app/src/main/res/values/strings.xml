@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RentDevice</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Rented"><font color='#f91d04'>Rented</font></string>
+    <string name="Available"><font color='#0fdb12'>Available</font></string>
+</resources>
